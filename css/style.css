@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond&family=Open+Sans:wght@300&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+body{
+	font-family: 'Open Sans', sans-serif;
+	size: 18px;
+	margin: 0px;
+	background-color: #2B1B2f;
+}
+
+h1,h2,h3{
+	font-family: 'EB Garamond', serif;
+	size: 24px;
+}
+a{
+	text-decoration: none;
+}
